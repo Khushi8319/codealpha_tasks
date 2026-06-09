@@ -1,6 +1,6 @@
 CodeAlpha C++ programming tasks:
 
-These are the projects completed by me during the CodeAlpha Internship.
+These are the tasks completed by me during the CodeAlpha Internship.
 
 1: CGPA Calculator
 
